@@ -1,0 +1,13 @@
+.bashrc
+.bash_history
+.gitconfig
+.joerc
+.joe_state
+.lesshst
+.python_history
+.viminfo
+.wget-hsts
+.ssh
+build
+output
+docker-compose.yaml
